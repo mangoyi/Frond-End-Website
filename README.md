@@ -24,6 +24,7 @@
 9. 图表制作控件-----[https://www.hcharts.cn/](https://www.hcharts.cn/ "hcharts")
 
 10. css3动画库-----[https://daneden.github.io/animate.css/](https://daneden.github.io/animate.css/ "css-animate") 
+11. Velocity.js动画库（模态框弹出动画）----[https://codepen.io/macsupport/pen/OPwvwx](https://codepen.io/macsupport/pen/OPwvwx "bootrap-modal.animate")
 
 个人网页：
 
