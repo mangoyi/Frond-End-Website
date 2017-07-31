@@ -26,6 +26,8 @@
 10. css3动画库-----[https://daneden.github.io/animate.css/](https://daneden.github.io/animate.css/ "css-animate") 
 11. Velocity.js动画库（模态框弹出动画）----[https://codepen.io/macsupport/pen/OPwvwx](https://codepen.io/macsupport/pen/OPwvwx "bootrap-modal.animate")
 
+12. 各种最新版浏览器-----[https://browsehappy.com/](https://browsehappy.com/ "browser") 
+
 个人网页：
 
 
