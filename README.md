@@ -56,5 +56,12 @@
 
 4. 已注册域名-----www.mangoyi.com  (客户PIN：9458) 
 5. 查询手机号已经注册的网站-----[https://www.reg007.com/](https://www.reg007.com/ "reg007查询")
+
+6. CSDN-----mangoyiy@163.com
+7. github-----759945821@qq.com
+
+8. stackoverflow-----mangoyiy@163.com
+9. 慕课网-----759945821@qq.com  
+
 ### 提问：
 1. segmentfault.com-----[https://segmentfault.com](https://segmentfault.com "segmentfault")
