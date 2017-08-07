@@ -65,3 +65,6 @@
 
 ### 提问：
 1. segmentfault.com-----[https://segmentfault.com](https://segmentfault.com "segmentfault")
+
+### 资源下载
+1. 建站资源软件包XAMPP-----[https://www.apachefriends.org/download.html](https://www.apachefriends.org/download.html "XAMPP")
