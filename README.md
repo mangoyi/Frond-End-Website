@@ -55,5 +55,6 @@
 3. hexo+github搭建的个人博客--[https://mangoyi.github.io/](https://mangoyi.github.io/ "ManGoYi")
 
 4. 已注册域名-----www.mangoyi.com  (客户PIN：9458) 
+5. 查询手机号已经注册的网站-----[https://www.reg007.com/](https://www.reg007.com/ "reg007查询")
 ### 提问：
 1. segmentfault.com-----[https://segmentfault.com](https://segmentfault.com "segmentfault")
