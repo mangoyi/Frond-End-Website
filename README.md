@@ -30,6 +30,8 @@
 ### 前端网址：
 1. vue官方api-----[https://cn.vuejs.org/v2/api/](https://cn.vuejs.org/v2/api/ "vuejs/org")
 
+2. Node Package Manager(NPM)-----[https://docs.npmjs.com/getting-started/what-is-npm](https://docs.npmjs.com/getting-started/what-is-npm "npm")
+3. Modern JS with ES2015/6(learn ES2015 guide)-----[https://babeljs.io/learn-es2015/](https://babeljs.io/learn-es2015/ "babeljs")
  
 ### 免费图片素材网址：
 1. 创意图片------[http://www.gratisography.com/](http://www.gratisography.com/)
