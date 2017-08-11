@@ -26,6 +26,8 @@
 10. css3动画库-----[https://daneden.github.io/animate.css/](https://daneden.github.io/animate.css/ "css-animate") 
 11. Velocity.js动画库（模态框弹出动画）----[https://codepen.io/macsupport/pen/OPwvwx](https://codepen.io/macsupport/pen/OPwvwx "bootrap-modal.animate")
 
+12. 在线压缩代码片段-----[http://kangax.github.io/html-minifier/](http://kangax.github.io/html-minifier/ "压缩代码") 
+
 12. 各种最新版浏览器-----[https://browsehappy.com/](https://browsehappy.com/ "browser") 
 ### 前端网址：
 1. vue官方api-----[https://cn.vuejs.org/v2/api/](https://cn.vuejs.org/v2/api/ "vuejs/org")
