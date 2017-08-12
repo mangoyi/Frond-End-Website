@@ -34,7 +34,14 @@
 
 2. Node Package Manager(NPM)-----[https://docs.npmjs.com/getting-started/what-is-npm](https://docs.npmjs.com/getting-started/what-is-npm "npm")
 3. Modern JS with ES2015/6(learn ES2015 guide)-----[https://babeljs.io/learn-es2015/](https://babeljs.io/learn-es2015/ "babeljs")
- 
+
+4. vue-router2 -----[https://router.vuejs.org/zh-cn/](https://router.vuejs.org/zh-cn/ "vue-router2")
+5. Vuex -----[https://vuex.vuejs.org/zh-cn/](https://vuex.vuejs.org/zh-cn/ "Vuex")
+
+6. vue-loader ----- [https://vue-loader.vuejs.org/zh-cn/](https://vue-loader.vuejs.org/zh-cn/ "vue-loader") 
+7.  vue论坛----- [https://forum.vuejs.org/c/chinese](https://forum.vuejs.org/c/chinese "vue-forum")
+
+8. vue讨论室-----[https://gitter.im/vuejs/vue](https://gitter.im/vuejs/vue "gitter")  
 ### 免费图片素材网址：
 1. 创意图片------[http://www.gratisography.com/](http://www.gratisography.com/)
 
