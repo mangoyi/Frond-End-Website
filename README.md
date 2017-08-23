@@ -29,7 +29,8 @@
 12. 在线压缩代码片段-----[http://kangax.github.io/html-minifier/](http://kangax.github.io/html-minifier/ "压缩代码") 
 
 12. 各种最新版浏览器-----[https://browsehappy.com/](https://browsehappy.com/ "browser") 
-### 前端网址：
+13. jquery最新引用地址-----[http://code.jquery.com/jquery-latest.js](http://code.jquery.com/jquery-latest.js "jquery")
+### Vue前端网址：
 1. vue官方api-----[https://cn.vuejs.org/v2/api/](https://cn.vuejs.org/v2/api/ "vuejs/org")
 
 2. Node Package Manager(NPM)-----[https://docs.npmjs.com/getting-started/what-is-npm](https://docs.npmjs.com/getting-started/what-is-npm "npm")
@@ -80,3 +81,8 @@
 
 ### 资源下载
 1. 建站资源软件包XAMPP-----[https://www.apachefriends.org/download.html](https://www.apachefriends.org/download.html "XAMPP")
+### MongoDB数据库
+1. mongodb官网-----[https://www.mongodb.com/](https://www.mongodb.com/)
+2. mongodb中文文档-----[http://docs.mongoing.com/manual-zh/](http://docs.mongoing.com/manual-zh/)
+3. mongoDB中文社区-----[http://www.mongoing.com/](http://www.mongoing.com/)
+4. mongoDb的github-----[https://github.com/mongodb/](https://github.com/mongodb/)
