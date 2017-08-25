@@ -86,3 +86,7 @@
 2. mongodb中文文档-----[http://docs.mongoing.com/manual-zh/](http://docs.mongoing.com/manual-zh/)
 3. mongoDB中文社区-----[http://www.mongoing.com/](http://www.mongoing.com/)
 4. mongoDb的github-----[https://github.com/mongodb/](https://github.com/mongodb/)
+
+### Html5
+1. W3C中所有web规范***-----[https://www.w3.org/TR/](https://www.w3.org/TR/ "w3.org")
+2. 用户检测用户浏览器的HTML5和CSS3的js库Modernizr-----[https://modernizr.com/](https://modernizr.com/)
