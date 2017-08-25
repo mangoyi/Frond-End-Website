@@ -90,3 +90,5 @@
 ### Html5
 1. W3C中所有web规范********-----[https://www.w3.org/TR/](https://www.w3.org/TR/ "w3.org")
 2. 用户检测用户浏览器的HTML5和CSS3的js库Modernizr-----[https://modernizr.com/](https://modernizr.com/)
+3. Html5视频元素video相关属性知识规范！-----[https://html.spec.whatwg.org/multipage/media.html#video](https://html.spec.whatwg.org/multipage/media.html#video "video")
+4. Html5中video实例！-----[https://www.w3.org/2010/05/video/mediaevents.html](https://www.w3.org/2010/05/video/mediaevents.html "video exmaples")
