@@ -88,5 +88,5 @@
 4. mongoDb的github-----[https://github.com/mongodb/](https://github.com/mongodb/)
 
 ### Html5
-1. W3C中所有web规范***-----[https://www.w3.org/TR/](https://www.w3.org/TR/ "w3.org")
+1. W3C中所有web规范********-----[https://www.w3.org/TR/](https://www.w3.org/TR/ "w3.org")
 2. 用户检测用户浏览器的HTML5和CSS3的js库Modernizr-----[https://modernizr.com/](https://modernizr.com/)
