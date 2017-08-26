@@ -28,8 +28,14 @@
 
 12. 在线压缩代码片段-----[http://kangax.github.io/html-minifier/](http://kangax.github.io/html-minifier/ "压缩代码") 
 
-12. 各种最新版浏览器-----[https://browsehappy.com/](https://browsehappy.com/ "browser") 
-13. jquery最新引用地址-----[http://code.jquery.com/jquery-latest.js](http://code.jquery.com/jquery-latest.js "jquery")
+13. 在线压缩图片1-----[https://tinypng.com/](https://tinypng.com/ "tinypng")
+
+14. 在线压缩图片2-----[http://www.kmhpromo.com/compress_jpeg_online/](http://www.kmhpromo.com/compress_jpeg_online/ "online")
+
+
+15. 各种最新版浏览器-----[https://browsehappy.com/](https://browsehappy.com/ "browser") 
+
+16. jquery最新引用地址-----[http://code.jquery.com/jquery-latest.js](http://code.jquery.com/jquery-latest.js "jquery")
 ### Vue前端网址：
 1. vue官方api-----[https://cn.vuejs.org/v2/api/](https://cn.vuejs.org/v2/api/ "vuejs/org")
 
