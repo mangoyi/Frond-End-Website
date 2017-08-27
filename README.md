@@ -36,6 +36,7 @@
 15. 各种最新版浏览器-----[https://browsehappy.com/](https://browsehappy.com/ "browser") 
 
 16. jquery最新引用地址-----[http://code.jquery.com/jquery-latest.js](http://code.jquery.com/jquery-latest.js "jquery")
+17. ajax动画加载GIF在线生成-----[http://ajaxload.info/](http://ajaxload.info/ "ajaxload")
 ### Vue前端网址：
 1. vue官方api-----[https://cn.vuejs.org/v2/api/](https://cn.vuejs.org/v2/api/ "vuejs/org")
 
