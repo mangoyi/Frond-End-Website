@@ -83,6 +83,8 @@
 8. stackoverflow-----mangoyiy@163.com
 9. 慕课网-----759945821@qq.com  
 
+10. 如何在gitpage搭建页面----http://www.cnblogs.com/lijiayi/p/githubpages.html
+
 ### 提问：
 1. segmentfault.com-----[https://segmentfault.com](https://segmentfault.com "segmentfault")
 
