@@ -80,6 +80,8 @@
 6. CSDN-----mangoyiy@163.com
 7. github-----mangoyiy@163.com
 
+8. 狗爹-----mangoyiy@163.com 
+
 8. stackoverflow-----mangoyiy@163.com
 9. 慕课网-----759945821@qq.com  
 
