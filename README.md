@@ -38,6 +38,7 @@
 16. jquery最新引用地址-----[http://code.jquery.com/jquery-latest.js](http://code.jquery.com/jquery-latest.js "jquery")
 17. ajax动画加载GIF在线生成-----[http://ajaxload.info/](http://ajaxload.info/ "ajaxload")
 18. 图片转base64-----[http://imgbase64.duoshitong.com/]
+19. 图片压缩jpg,png,webp ---- [https://zhitu.isux.us/]
 
 
 ### Vue前端网址：
