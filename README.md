@@ -39,7 +39,7 @@
 17. ajax动画加载GIF在线生成-----[http://ajaxload.info/](http://ajaxload.info/ "ajaxload")
 18. 图片转base64-----[http://imgbase64.duoshitong.com/]
 19. 图片压缩jpg,png,webp ---- [https://zhitu.isux.us/]
-
+20. 雪碧图生成css代码  ----- [http://www.spritecow.com/]
 
 ### Vue前端网址：
 1. vue官方api-----[https://cn.vuejs.org/v2/api/](https://cn.vuejs.org/v2/api/ "vuejs/org")
